@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mrsteele/mrsteele/issues"
   },
-  "homepage": "https://github.com/mrsteele/mrsteele#readme"
+  "homepage": "https://github.com/mrsteele/mrsteele#readme",
+  "devDependencies": {
+    "semantic-release": "^17.3.9"
+  }
 }
