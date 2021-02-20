@@ -1,6 +1,6 @@
 # Hi there 👋
 
-A few references about me:
+If you need to know more about me:
 
 1. [Github](https://github.com/mrsteele)
 1. [Twitter](https://twitter.com/matt_r_steele)
