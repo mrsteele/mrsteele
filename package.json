@@ -1,0 +1,20 @@
+{
+  "name": "mrsteele",
+  "version": "1.0.0",
+  "description": "<!-- **mrsteele/mrsteele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsteele/mrsteele.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsteele/mrsteele/issues"
+  },
+  "homepage": "https://github.com/mrsteele/mrsteele#readme"
+}
